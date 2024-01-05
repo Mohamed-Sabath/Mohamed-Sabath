@@ -11,7 +11,7 @@
 <br><br>
 
 - :school: I am a `Data Science Undergraduate` at National Institute of Business Management.
-- :trophy: Completed Google Data Analytics Professional Certificate, Google Cloud Introduction to Generative AI.
+- :trophy: `Google Certified` Data analyst, Google Cloud Introduction to Generative AI Certificate.
 - :technologist: I love analyzing Data and creating meaningful `Insights and ML Solutions`.
 - :student: I’m currently learning `Deep Learning and BigData`.
 - :nerd_face: Always `learning new things`.
