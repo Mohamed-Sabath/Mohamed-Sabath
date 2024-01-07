@@ -54,7 +54,7 @@
   - Skills plus from British Council Sri Lanka (English Language Certification) (Nov 2021)
 
 - 📊 Projects (Continued):
-  - [Exploring Employee Turnover Factors (2022)]() - Conducted statistical analysis with `hypothesis testing` such as `Chi-Squared, ANOVA`, Logistic regression on an employee attrition dataset sourced from Kaggle. Utilized `Python and R` for data manipulation and visualization, drawing insights into factors impacting employee turnover. Demonstrated proficiency in data analysis, visualization, and storytelling.
+  - [Exploring Employee Turnover Factors (2022)](https://github.com/Mohamed-Sabath/Exploring-employee-turnover-factor.git) - Conducted statistical analysis with `hypothesis testing` such as `Chi-Squared, ANOVA`, Logistic regression on an employee attrition dataset sourced from Kaggle. Utilized `Python and R` for data manipulation and visualization, drawing insights into factors impacting employee turnover. Demonstrated proficiency in data analysis, visualization, and storytelling.
 
   - [Predict Subscribing to a Term Deposit (2nd Year)](https://github.com/Mohamed-Sabath/Prediction-Subscribing-to-a-term-deposit.git) - Utilized `Google Collab` to create a `Supervised Machine learning` model to predict subscribing to a term deposit (yes/no) based on customers’ demographic information and previous banking history. Performed data cleaning and preprocessing on Google Collab. Applied logistic regression and machine learning to produce a final model with an accuracy of `99.28%`.
     
