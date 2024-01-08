@@ -15,7 +15,7 @@
 - :trophy: `Google Certified` Data analyst, Google Cloud Introduction to Generative AI Certificate.
 - :student: I’m currently learning `Deep Learning and BigData`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `Internship opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `Internship opportunity`, this is [MY RESUME](https://drive.google.com/drive/folders/1CD9n4BMf2p-20xY4J3zEVyM3RFxiCFcu?usp=sharing).
 <br>
 
 
